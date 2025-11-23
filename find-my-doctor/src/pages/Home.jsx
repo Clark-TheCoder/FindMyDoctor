@@ -11,7 +11,7 @@ function Home() {
       <Header title="Find My Doctor" />
       <div className="d-flex">
         <Sidebar onSetProvince={setProvince} />
-        <Main />
+        <Main selectedProvince={province} />
       </div>
     </>
   );
