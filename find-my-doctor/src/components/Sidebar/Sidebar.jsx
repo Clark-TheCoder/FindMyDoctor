@@ -40,6 +40,7 @@ function Sidebar({ onSetProvince }) {
         width: "250px",
         height: "100vh",
         overflowY: "auto",
+        flexShrink: 0,
       }}
     >
       <div className="list-group">{createSidebarComponents()}</div>
