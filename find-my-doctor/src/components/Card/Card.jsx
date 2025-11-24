@@ -1,7 +1,13 @@
+import { useNavigate } from "react-router-dom";
+
 function Card({ doctor }) {
+  const navigate = useNavigate();
   return (
     <div
       className="card"
+      onClick={() => {
+        navigate(`/profile/${doctor.id}`);
+      }}
       style={{
         width: "250px",
         height: "350px",
