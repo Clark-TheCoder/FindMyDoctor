@@ -6,7 +6,7 @@ function Card({ doctor }) {
     <div
       className="card"
       onClick={() => {
-        navigate(`/profile/${doctor.id}`);
+        navigate(`/doctor/${doctor.id}`);
       }}
       style={{
         width: "250px",
