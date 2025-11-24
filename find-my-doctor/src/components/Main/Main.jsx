@@ -9,7 +9,7 @@ function Main({ selectedProvince }) {
 
   function createCards({ selectedDoctors }) {
     return selectedDoctors.map((item) => {
-      return <Card key={item.name} doctor={item} />; // Using doctor's name an key
+      return <Card key={item.id} doctor={item} />;
     });
   }
 
