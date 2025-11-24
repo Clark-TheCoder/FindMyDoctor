@@ -1,4 +1,5 @@
 import { useNavigate } from "react-router-dom";
+import FavouriteBtn from "../FavouriteBtn/FavouriteBtn.jsx";
 
 function Card({ doctor }) {
   const navigate = useNavigate();
@@ -30,6 +31,7 @@ function Card({ doctor }) {
           {" "}
           {doctor.town}, {doctor.province}
         </p>
+        <FavouriteBtn docId={doctor.id}></FavouriteBtn>
       </div>
     </div>
   );
