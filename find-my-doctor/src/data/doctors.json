@@ -5,7 +5,9 @@
     "name": "Dr. Sarah Thompson",
     "province": "New Brunswick",
     "town": "Fredericton",
-    "phone": "506-201-1122"
+    "phone": "506-201-1122",
+    "specialty": "Pediatrics",
+    "bio": "Dr. Thompson has over 10 years of experience caring for children and adolescents."
   },
   {
     "id": 2,
@@ -13,7 +15,9 @@
     "name": "Dr. Michael Grant",
     "province": "New Brunswick",
     "town": "Moncton",
-    "phone": "506-380-4421"
+    "phone": "506-380-4421",
+    "specialty": "Cardiology",
+    "bio": "Dr. Grant specializes in heart health and preventive cardiology for adults."
   },
   {
     "id": 3,
@@ -21,7 +25,9 @@
     "name": "Dr. Olivia Bennett",
     "province": "New Brunswick",
     "town": "Saint John",
-    "phone": "506-773-9851"
+    "phone": "506-773-9851",
+    "specialty": "Dermatology",
+    "bio": "Dr. Bennett is an expert in skin conditions and cosmetic dermatology treatments."
   },
   {
     "id": 4,
@@ -29,7 +35,9 @@
     "name": "Dr. Daniel Fraser",
     "province": "New Brunswick",
     "town": "Bathurst",
-    "phone": "506-247-9933"
+    "phone": "506-247-9933",
+    "specialty": "Orthopedics",
+    "bio": "Dr. Fraser focuses on bone and joint health, including sports injuries and surgery."
   },
   {
     "id": 5,
@@ -37,7 +45,9 @@
     "name": "Dr. Emily Richards",
     "province": "New Brunswick",
     "town": "Edmundston",
-    "phone": "506-831-5520"
+    "phone": "506-831-5520",
+    "specialty": "Family Medicine",
+    "bio": "Dr. Richards provides comprehensive care for patients of all ages."
   },
   {
     "id": 6,
@@ -45,7 +55,9 @@
     "name": "Dr. Joseph Miller",
     "province": "New Brunswick",
     "town": "Miramichi",
-    "phone": "506-833-2045"
+    "phone": "506-833-2045",
+    "specialty": "Neurology",
+    "bio": "Dr. Miller treats a variety of neurological disorders and chronic conditions."
   },
   {
     "id": 7,
@@ -53,7 +65,9 @@
     "name": "Dr. Ava Preston",
     "province": "New Brunswick",
     "town": "Sussex",
-    "phone": "506-418-2210"
+    "phone": "506-418-2210",
+    "specialty": "Ophthalmology",
+    "bio": "Dr. Preston specializes in eye care and vision correction procedures."
   },
   {
     "id": 8,
@@ -61,7 +75,9 @@
     "name": "Dr. Ryan Caldwell",
     "province": "New Brunswick",
     "town": "Oromocto",
-    "phone": "506-390-7442"
+    "phone": "506-390-7442",
+    "specialty": "Gastroenterology",
+    "bio": "Dr. Caldwell focuses on digestive system health and gastrointestinal diseases."
   },
   {
     "id": 9,
@@ -69,7 +85,9 @@
     "name": "Dr. Hannah Stewart",
     "province": "New Brunswick",
     "town": "Rothesay",
-    "phone": "506-221-5521"
+    "phone": "506-221-5521",
+    "specialty": "Endocrinology",
+    "bio": "Dr. Stewart manages hormonal and metabolic disorders, including diabetes."
   },
   {
     "id": 10,
@@ -77,7 +95,9 @@
     "name": "Dr. Lucas McCarthy",
     "province": "New Brunswick",
     "town": "Quispamsis",
-    "phone": "506-334-9890"
+    "phone": "506-334-9890",
+    "specialty": "Pulmonology",
+    "bio": "Dr. McCarthy treats lung and respiratory conditions with advanced therapies."
   },
   {
     "id": 11,
@@ -85,7 +105,9 @@
     "name": "Dr. Emma Clarke",
     "province": "Nova Scotia",
     "town": "Halifax",
-    "phone": "902-222-4554"
+    "phone": "902-222-4554",
+    "specialty": "Pediatrics",
+    "bio": "Dr. Clarke is passionate about child health and adolescent medicine."
   },
   {
     "id": 12,
@@ -93,7 +115,9 @@
     "name": "Dr. Mark Henderson",
     "province": "Nova Scotia",
     "town": "Dartmouth",
-    "phone": "902-555-2442"
+    "phone": "902-555-2442",
+    "specialty": "Cardiology",
+    "bio": "Dr. Henderson specializes in heart disease prevention and treatment."
   },
   {
     "id": 13,
@@ -101,7 +125,9 @@
     "name": "Dr. Emily Carter",
     "province": "Nova Scotia",
     "town": "Bedford",
-    "phone": "902-493-8842"
+    "phone": "902-493-8842",
+    "specialty": "Dermatology",
+    "bio": "Dr. Carter treats a wide range of skin conditions, from acne to eczema."
   },
   {
     "id": 14,
@@ -109,7 +135,9 @@
     "name": "Dr. Nathan Porter",
     "province": "Nova Scotia",
     "town": "Truro",
-    "phone": "902-720-1044"
+    "phone": "902-720-1044",
+    "specialty": "Orthopedics",
+    "bio": "Dr. Porter focuses on musculoskeletal injuries and joint replacement."
   },
   {
     "id": 15,
@@ -117,7 +145,9 @@
     "name": "Dr. Rachel Myers",
     "province": "Nova Scotia",
     "town": "Sydney",
-    "phone": "902-274-1199"
+    "phone": "902-274-1199",
+    "specialty": "Family Medicine",
+    "bio": "Dr. Myers provides general healthcare and preventive medicine services."
   },
   {
     "id": 16,
@@ -125,7 +155,9 @@
     "name": "Dr. Adrian Foster",
     "province": "Nova Scotia",
     "town": "New Glasgow",
-    "phone": "902-431-9920"
+    "phone": "902-431-9920",
+    "specialty": "Neurology",
+    "bio": "Dr. Foster treats neurological disorders including migraines and epilepsy."
   },
   {
     "id": 17,
@@ -133,7 +165,9 @@
     "name": "Dr. Lauren Stephens",
     "province": "Nova Scotia",
     "town": "Wolfville",
-    "phone": "902-399-4484"
+    "phone": "902-399-4484",
+    "specialty": "Ophthalmology",
+    "bio": "Dr. Stephens specializes in eye health and cataract surgery."
   },
   {
     "id": 18,
@@ -141,7 +175,9 @@
     "name": "Dr. Ethan Doyle",
     "province": "Nova Scotia",
     "town": "Yarmouth",
-    "phone": "902-221-9331"
+    "phone": "902-221-9331",
+    "specialty": "Gastroenterology",
+    "bio": "Dr. Doyle manages digestive disorders and liver diseases."
   },
   {
     "id": 19,
@@ -149,7 +185,9 @@
     "name": "Dr. Julia Sanders",
     "province": "Nova Scotia",
     "town": "Bridgewater",
-    "phone": "902-511-7842"
+    "phone": "902-511-7842",
+    "specialty": "Endocrinology",
+    "bio": "Dr. Sanders treats thyroid, diabetes, and other hormonal conditions."
   },
   {
     "id": 20,
@@ -157,7 +195,9 @@
     "name": "Dr. Anthony Clarke",
     "province": "Nova Scotia",
     "town": "Amherst",
-    "phone": "902-221-4429"
+    "phone": "902-221-4429",
+    "specialty": "Pulmonology",
+    "bio": "Dr. Clarke treats asthma, COPD, and other lung disorders."
   },
   {
     "id": 21,
@@ -165,7 +205,9 @@
     "name": "Dr. Michelle O'Leary",
     "province": "Newfoundland",
     "town": "St. John's",
-    "phone": "709-200-1198"
+    "phone": "709-200-1198",
+    "specialty": "Family Medicine",
+    "bio": "Dr. O'Leary provides full-spectrum primary care for families in St. John's."
   },
   {
     "id": 22,
@@ -173,7 +215,9 @@
     "name": "Dr. Patrick Doyle",
     "province": "Newfoundland",
     "town": "Mount Pearl",
-    "phone": "709-477-2331"
+    "phone": "709-477-2331",
+    "specialty": "Cardiology",
+    "bio": "Dr. Doyle specializes in heart health, from prevention to interventional procedures."
   },
   {
     "id": 23,
@@ -181,7 +225,9 @@
     "name": "Dr. Nora Finn",
     "province": "Newfoundland",
     "town": "Corner Brook",
-    "phone": "709-389-9212"
+    "phone": "709-389-9212",
+    "specialty": "Dermatology",
+    "bio": "Dr. Finn treats skin disorders including acne, eczema, and psoriasis."
   },
   {
     "id": 24,
@@ -189,7 +235,9 @@
     "name": "Dr. Liam O'Rourke",
     "province": "Newfoundland",
     "town": "Gander",
-    "phone": "709-292-7710"
+    "phone": "709-292-7710",
+    "specialty": "Orthopedics",
+    "bio": "Dr. O'Rourke treats sports injuries, fractures, and joint conditions."
   },
   {
     "id": 25,
@@ -197,7 +245,9 @@
     "name": "Dr. Fiona Sullivan",
     "province": "Newfoundland",
     "town": "Grand Falls-Windsor",
-    "phone": "709-733-5581"
+    "phone": "709-733-5581",
+    "specialty": "Pediatrics",
+    "bio": "Dr. Sullivan is experienced in child healthcare and adolescent medicine."
   },
   {
     "id": 26,
@@ -205,7 +255,9 @@
     "name": "Dr. Shane Murphy",
     "province": "Newfoundland",
     "town": "Happy Valley-Goose Bay",
-    "phone": "709-839-1199"
+    "phone": "709-839-1199",
+    "specialty": "Neurology",
+    "bio": "Dr. Murphy treats neurological conditions including migraines and epilepsy."
   },
   {
     "id": 27,
@@ -213,7 +265,9 @@
     "name": "Dr. Erin Walsh",
     "province": "Newfoundland",
     "town": "Carbonear",
-    "phone": "709-688-4412"
+    "phone": "709-688-4412",
+    "specialty": "Gastroenterology",
+    "bio": "Dr. Walsh manages digestive system disorders and liver diseases."
   },
   {
     "id": 28,
@@ -221,7 +275,9 @@
     "name": "Dr. Brendan Keane",
     "province": "Newfoundland",
     "town": "Stephenville",
-    "phone": "709-455-9022"
+    "phone": "709-455-9022",
+    "specialty": "Pulmonology",
+    "bio": "Dr. Keane treats respiratory conditions including asthma and COPD."
   },
   {
     "id": 29,
@@ -229,7 +285,9 @@
     "name": "Dr. Kayla Burke",
     "province": "Newfoundland",
     "town": "Clarenville",
-    "phone": "709-239-5772"
+    "phone": "709-239-5772",
+    "specialty": "Endocrinology",
+    "bio": "Dr. Burke manages diabetes, thyroid disorders, and other hormonal conditions."
   },
   {
     "id": 30,
@@ -237,7 +295,9 @@
     "name": "Dr. Dillon Walsh",
     "province": "Newfoundland",
     "town": "Bonavista",
-    "phone": "709-821-4441"
+    "phone": "709-821-4441",
+    "specialty": "Cardiology",
+    "bio": "Dr. Walsh specializes in adult heart care and preventive cardiology."
   },
   {
     "id": 31,
@@ -245,7 +305,9 @@
     "name": "Dr. Abigail Moore",
     "province": "Prince Edward Island",
     "town": "Charlottetown",
-    "phone": "902-420-3399"
+    "phone": "902-420-3399",
+    "specialty": "Family Medicine",
+    "bio": "Dr. Moore provides comprehensive care for all ages in Charlottetown."
   },
   {
     "id": 32,
@@ -253,7 +315,9 @@
     "name": "Dr. Liam Patterson",
     "province": "Prince Edward Island",
     "town": "Summerside",
-    "phone": "902-542-2288"
+    "phone": "902-542-2288",
+    "specialty": "Pediatrics",
+    "bio": "Dr. Patterson is focused on children's health and development."
   },
   {
     "id": 33,
@@ -261,7 +325,9 @@
     "name": "Dr. Chloe MacNeill",
     "province": "Prince Edward Island",
     "town": "Montague",
-    "phone": "902-881-4410"
+    "phone": "902-881-4410",
+    "specialty": "Dermatology",
+    "bio": "Dr. MacNeill treats skin conditions and provides cosmetic dermatology."
   },
   {
     "id": 34,
@@ -269,7 +335,9 @@
     "name": "Dr. Owen Fraser",
     "province": "Prince Edward Island",
     "town": "Kensington",
-    "phone": "902-555-9090"
+    "phone": "902-555-9090",
+    "specialty": "Orthopedics",
+    "bio": "Dr. Fraser specializes in joint and musculoskeletal care."
   },
   {
     "id": 35,
@@ -277,7 +345,9 @@
     "name": "Dr. Natalie Ross",
     "province": "Prince Edward Island",
     "town": "Souris",
-    "phone": "902-514-2291"
+    "phone": "902-514-2291",
+    "specialty": "Cardiology",
+    "bio": "Dr. Ross provides comprehensive heart care and treatment."
   },
   {
     "id": 36,
@@ -285,7 +355,9 @@
     "name": "Dr. Carter MacLean",
     "province": "Prince Edward Island",
     "town": "Stratford",
-    "phone": "902-333-7711"
+    "phone": "902-333-7711",
+    "specialty": "Neurology",
+    "bio": "Dr. MacLean treats neurological disorders such as epilepsy and migraines."
   },
   {
     "id": 37,
@@ -293,7 +365,9 @@
     "name": "Dr. Leah Hamilton",
     "province": "Prince Edward Island",
     "town": "Cornwall",
-    "phone": "902-499-3939"
+    "phone": "902-499-3939",
+    "specialty": "Endocrinology",
+    "bio": "Dr. Hamilton manages diabetes, thyroid, and other hormonal disorders."
   },
   {
     "id": 38,
@@ -301,7 +375,9 @@
     "name": "Dr. Finn McCoy",
     "province": "Prince Edward Island",
     "town": "Alberton",
-    "phone": "902-711-2280"
+    "phone": "902-711-2280",
+    "specialty": "Pulmonology",
+    "bio": "Dr. McCoy treats lung conditions including asthma and COPD."
   },
   {
     "id": 39,
@@ -309,7 +385,9 @@
     "name": "Dr. Isla Stewart",
     "province": "Prince Edward Island",
     "town": "Tignish",
-    "phone": "902-772-4413"
+    "phone": "902-772-4413",
+    "specialty": "Ophthalmology",
+    "bio": "Dr. Stewart specializes in eye care and vision correction."
   },
   {
     "id": 40,
@@ -317,16 +395,19 @@
     "name": "Dr. Mason Carmichael",
     "province": "Prince Edward Island",
     "town": "O'Leary",
-    "phone": "902-887-9341"
+    "phone": "902-887-9341",
+    "specialty": "Family Medicine",
+    "bio": "Dr. Carmichael provides primary care for adults and children."
   },
-
   {
     "id": 41,
     "image": "https://via.placeholder.com/300x200",
     "name": "Dr. Félix Tremblay",
     "province": "Quebec",
     "town": "Quebec City",
-    "phone": "418-222-4412"
+    "phone": "418-222-4412",
+    "specialty": "Cardiology",
+    "bio": "Dr. Tremblay specializes in adult heart care and preventative cardiology."
   },
   {
     "id": 42,
@@ -334,7 +415,9 @@
     "name": "Dr. Marie Gagnon",
     "province": "Quebec",
     "town": "Montreal",
-    "phone": "514-882-2209"
+    "phone": "514-882-2209",
+    "specialty": "Dermatology",
+    "bio": "Dr. Gagnon treats skin disorders and provides cosmetic dermatology services."
   },
   {
     "id": 43,
@@ -342,7 +425,9 @@
     "name": "Dr. Antoine Boucher",
     "province": "Quebec",
     "town": "Laval",
-    "phone": "450-229-9933"
+    "phone": "450-229-9933",
+    "specialty": "Pediatrics",
+    "bio": "Dr. Boucher cares for children and adolescents, focusing on preventive care."
   },
   {
     "id": 44,
@@ -350,7 +435,9 @@
     "name": "Dr. Camille Dufresne",
     "province": "Quebec",
     "town": "Sherbrooke",
-    "phone": "819-221-5544"
+    "phone": "819-221-5544",
+    "specialty": "Neurology",
+    "bio": "Dr. Dufresne treats epilepsy, migraines, and other neurological disorders."
   },
   {
     "id": 45,
@@ -358,7 +445,9 @@
     "name": "Dr. Olivier Girard",
     "province": "Quebec",
     "town": "Trois-Rivières",
-    "phone": "819-774-1182"
+    "phone": "819-774-1182",
+    "specialty": "Orthopedics",
+    "bio": "Dr. Girard specializes in joint replacement and sports injuries."
   },
   {
     "id": 46,
@@ -366,7 +455,9 @@
     "name": "Dr. Florence Martel",
     "province": "Quebec",
     "town": "Gatineau",
-    "phone": "819-345-0021"
+    "phone": "819-345-0021",
+    "specialty": "Ophthalmology",
+    "bio": "Dr. Martel treats eye diseases and performs vision correction procedures."
   },
   {
     "id": 47,
@@ -374,7 +465,9 @@
     "name": "Dr. Jérôme Fortin",
     "province": "Quebec",
     "town": "Saguenay",
-    "phone": "418-933-7211"
+    "phone": "418-933-7211",
+    "specialty": "Pulmonology",
+    "bio": "Dr. Fortin treats chronic respiratory conditions such as asthma and COPD."
   },
   {
     "id": 48,
@@ -382,7 +475,9 @@
     "name": "Dr. Amélie Laroche",
     "province": "Quebec",
     "town": "Rimouski",
-    "phone": "418-771-5543"
+    "phone": "418-771-5543",
+    "specialty": "Family Medicine",
+    "bio": "Dr. Laroche provides comprehensive care for families in Rimouski."
   },
   {
     "id": 49,
@@ -390,7 +485,9 @@
     "name": "Dr. Maxime Côté",
     "province": "Quebec",
     "town": "Thetford Mines",
-    "phone": "418-339-8811"
+    "phone": "418-339-8811",
+    "specialty": "Endocrinology",
+    "bio": "Dr. Côté treats diabetes, thyroid disorders, and hormonal imbalances."
   },
   {
     "id": 50,
@@ -398,16 +495,19 @@
     "name": "Dr. Chloé Parent",
     "province": "Quebec",
     "town": "Saint-Georges",
-    "phone": "418-725-6672"
+    "phone": "418-725-6672",
+    "specialty": "Cardiology",
+    "bio": "Dr. Parent specializes in adult cardiology and preventive heart care."
   },
-
   {
     "id": 51,
     "image": "https://via.placeholder.com/300x200",
     "name": "Dr. Andrew Black",
     "province": "Ontario",
     "town": "Toronto",
-    "phone": "416-221-7788"
+    "phone": "416-221-7788",
+    "specialty": "Family Medicine",
+    "bio": "Dr. Black provides general healthcare services to individuals and families."
   },
   {
     "id": 52,
@@ -415,7 +515,9 @@
     "name": "Dr. Jennifer Davis",
     "province": "Ontario",
     "town": "Ottawa",
-    "phone": "613-992-8872"
+    "phone": "613-992-8872",
+    "specialty": "Pediatrics",
+    "bio": "Dr. Davis cares for children and adolescents with a focus on preventive care."
   },
   {
     "id": 53,
@@ -423,7 +525,9 @@
     "name": "Dr. Robert Hall",
     "province": "Ontario",
     "town": "Hamilton",
-    "phone": "905-421-3300"
+    "phone": "905-421-3300",
+    "specialty": "Dermatology",
+    "bio": "Dr. Hall treats skin conditions and provides cosmetic dermatology services."
   },
   {
     "id": 54,
@@ -431,7 +535,9 @@
     "name": "Dr. Victoria Moore",
     "province": "Ontario",
     "town": "London",
-    "phone": "519-711-8800"
+    "phone": "519-711-8800",
+    "specialty": "Cardiology",
+    "bio": "Dr. Moore specializes in heart disease prevention and management."
   },
   {
     "id": 55,
@@ -439,7 +545,9 @@
     "name": "Dr. Ethan Rogers",
     "province": "Ontario",
     "town": "Kitchener",
-    "phone": "519-384-5521"
+    "phone": "519-384-5521",
+    "specialty": "Orthopedics",
+    "bio": "Dr. Rogers focuses on joint and bone health, including sports injuries."
   },
   {
     "id": 56,
@@ -447,7 +555,9 @@
     "name": "Dr. Sophia Adams",
     "province": "Ontario",
     "town": "Brampton",
-    "phone": "905-889-2212"
+    "phone": "905-889-2212",
+    "specialty": "Neurology",
+    "bio": "Dr. Adams treats neurological disorders such as epilepsy and migraines."
   },
   {
     "id": 57,
@@ -455,7 +565,9 @@
     "name": "Dr. Kevin Peterson",
     "province": "Ontario",
     "town": "Mississauga",
-    "phone": "905-881-7733"
+    "phone": "905-881-7733",
+    "specialty": "Endocrinology",
+    "bio": "Dr. Peterson manages diabetes, thyroid disorders, and other hormonal imbalances."
   },
   {
     "id": 58,
@@ -463,7 +575,9 @@
     "name": "Dr. Nora Williams",
     "province": "Ontario",
     "town": "Windsor",
-    "phone": "519-332-1100"
+    "phone": "519-332-1100",
+    "specialty": "Gastroenterology",
+    "bio": "Dr. Williams specializes in digestive system health and liver care."
   },
   {
     "id": 59,
@@ -471,7 +585,9 @@
     "name": "Dr. Liam Patel",
     "province": "Ontario",
     "town": "Kingston",
-    "phone": "613-711-8822"
+    "phone": "613-711-8822",
+    "specialty": "Pulmonology",
+    "bio": "Dr. Patel treats lung and respiratory conditions including asthma and COPD."
   },
   {
     "id": 60,
@@ -479,6 +595,8 @@
     "name": "Dr. Clara Mitchell",
     "province": "Ontario",
     "town": "Thunder Bay",
-    "phone": "807-114-5520"
+    "phone": "807-114-5520",
+    "specialty": "Ophthalmology",
+    "bio": "Dr. Mitchell focuses on eye care, cataract surgery, and vision health."
   }
 ]
