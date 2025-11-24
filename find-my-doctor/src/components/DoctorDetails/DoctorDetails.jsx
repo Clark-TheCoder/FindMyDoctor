@@ -1,4 +1,5 @@
 import React from "react";
+import FavouriteBtn from "../FavouriteBtn/FavouriteBtn";
 
 function DoctorDetails({ doctor }) {
   return (
@@ -47,6 +48,7 @@ function DoctorDetails({ doctor }) {
         <h6>{doctor.bio}</h6>
         <h4>{`${doctor.town}, ${doctor.province}`}</h4>
         <h5>{doctor.phone}</h5>
+        <FavouriteBtn docId={doctor.id}></FavouriteBtn>
       </div>
     </div>
   );
