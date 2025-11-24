@@ -8,9 +8,13 @@ function Main({ selectedProvince }) {
       : [];
 
   function createCards({ selectedDoctors }) {
-    return selectedDoctors.map((item) => {
-      return <Card key={item.id} doctor={item} />;
-    });
+    return selectedDoctors.length > 0 ? (
+      selectedDoctors.map((item) => <Card key={item.id} doctor={item} />)
+    ) : (
+      <h1 style={{ color: "white" }}>
+        Select province to discover doctors located in that area.
+      </h1>
+    );
   }
 
   return (
