@@ -34,15 +34,7 @@ function Sidebar({ onSetProvince }) {
   }
 
   return (
-    <div
-      className="bg-light border-end"
-      style={{
-        width: "250px",
-        height: "100vh",
-        overflowY: "auto",
-        flexShrink: 0,
-      }}
-    >
+    <div className="bg-light border-end sidebar">
       <div className="list-group">{createSidebarComponents()}</div>
     </div>
   );
