@@ -1,5 +1,6 @@
 import { useNavigate } from "react-router-dom";
 import FavouriteBtn from "../FavouriteBtn/FavouriteBtn.jsx";
+import "./Card.css";
 
 function Card({ doctor }) {
   const navigate = useNavigate();
@@ -9,17 +10,8 @@ function Card({ doctor }) {
       onClick={() => {
         navigate(`/doctor/${doctor.id}`);
       }}
-      style={{
-        width: "250px",
-        height: "350px",
-      }}
     >
-      <img
-        src={doctor.image}
-        className="card-img-top"
-        alt={doctor.name}
-        style={{ objectFit: "cover", height: "180px" }}
-      />
+      <img src={doctor.image} className="card-img-top" alt={doctor.name} />
       <div className="card-body">
         <h5 className="card-title">{doctor.name}</h5>
 
