@@ -1,4 +1,5 @@
 import { useState } from "react";
+import "./Sidebar.css";
 
 function Sidebar({ onSetProvince }) {
   const [active, setActive] = useState(-1);

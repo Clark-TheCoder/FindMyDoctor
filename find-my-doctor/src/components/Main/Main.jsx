@@ -1,5 +1,6 @@
 import Card from "../Card/Card";
 import doctors from "../../Data/doctors.json";
+import "./Main.css";
 
 function Main({ selectedProvince }) {
   const selectedDoctors =
@@ -11,23 +12,14 @@ function Main({ selectedProvince }) {
     return selectedDoctors.length > 0 ? (
       selectedDoctors.map((item) => <Card key={item.id} doctor={item} />)
     ) : (
-      <h1 style={{ color: "white" }}>
+      <h1 className="heading">
         Select province to discover doctors located in that area.
       </h1>
     );
   }
 
   return (
-    <main
-      className="d-flex flex-wrap p-3"
-      style={{
-        backgroundColor: "#d0ebff",
-        gap: "15px",
-        flexGrow: 1,
-        justifyContent: "center",
-        alignItems: "flex-start",
-      }}
-    >
+    <main className="d-flex flex-wrap p-3 main">
       {createCards({ selectedDoctors })}
     </main>
   );

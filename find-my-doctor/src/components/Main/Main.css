@@ -1,0 +1,10 @@
+.main {
+  background-color: #d0ebff;
+  gap: 15px;
+  flex-grow: 1;
+  justify-content: center;
+  align-items: flex-start;
+}
+.heading {
+  color: rgb(162, 161, 161);
+}
